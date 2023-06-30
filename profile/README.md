@@ -14,7 +14,7 @@ The __digital data resources__ are structured into four main repositories:
 * [_fdi-mappings_](https://github.com/fdiwg/fdi-mappings): referencing all mappings between code lists, including: 
 * [_fdi-formats_](https://github.com/fdiwg/fdi-formats): referencing digital format specifications to be used as basis for data templating, validation and submission in data collection frameworks use cases piloted through the FIRMS [dcf-shiny](https://github.com/fdiwg/dcf-shiny) platform.
 
-The __supporting tools_ currently under development are:
+The __supporting tools__ currently under development are:
 * [fdi4R](https://github.com/fdiwg/fdi4R) R package with a set of utilities
 * [vrule](https:/github.com/fdiwg/vrule) R package to support data validation rules based on [_fdi-formats_](https://github.com/fdiwg/fdi-formats) digital specifications
 * [dcf-shiny](https://github.com/fdiwg/dcf-shiny) R Shiny application in support of Data Collection frameworks and underlying data calls management, data validation & submission. The application relies on the [vrule](https:/github.com/fdiwg/vrule) R package for data validation.
