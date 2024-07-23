@@ -23,5 +23,5 @@ The __supporting tools__ currently under development include at this stage:
     * [dcf-dashboard](https://github.com/fdiwg/dcf-dashboard) R shiny application to show data availability from databases built on [dcf-shiny](https://github.com/fdiwg/dcf-shiny). Applied to
         * [dcf-dashboard-wecafis](https://github.com/fdiwg/dcf-dashboard-wecafis) WECAFIS regional data base
         * [dcf-dashboard-recofi](https://github.com/fdiwg/dcf-dashboard-recofi) RECOFI regional data base
-        * [dcf-dashboard-gta)(https://github.com/fdiwg/dcf-dashboard-gta) Global Tuna Atlas (GTA) - _under testing_
+        * [dcf-dashboard-gta](https://github.com/fdiwg/dcf-dashboard-gta) Global Tuna Atlas (GTA) - _under testing_
     * [smt-shiny](https://github.com/fdiwg/smt-shiny) R Shiny application for _Stock monitoring tools_, developed by FAO, is available to the global community and hosted via remote computational facilities with considerable processing resources. This tool was designed to allow users with little to no programming experience to run methods developed for data-limited situations to evaluate and monitor the sustainability of fish stocks.
