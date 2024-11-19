@@ -18,6 +18,7 @@ The __supporting tools__ currently under development include at this stage:
 * R packages
     * [fdi4R](https://github.com/fdiwg/fdi4R) R package with a set of utilities
     * [vrule](https:/github.com/fdiwg/vrule) R package to support data validation rules based on [_fdi-formats_](https://github.com/fdiwg/fdi-formats) digital specifications
+    * [artfishr](https://github.com/fdiwg/artfishr) R package to support Artfish implementation
 * R shiny applications
     * [dcf-shiny](https://github.com/fdiwg/dcf-shiny) R Shiny application in support of _Data Collection Frameworks_ and underlying data calls management, data validation & submission. The application relies on the [vrule](https:/github.com/fdiwg/vrule) R package for data validation.
     * [dcf-dashboard](https://github.com/fdiwg/dcf-dashboard) R shiny application to show data availability from databases built on [dcf-shiny](https://github.com/fdiwg/dcf-shiny). Applied to
