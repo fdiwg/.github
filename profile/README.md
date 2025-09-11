@@ -2,12 +2,13 @@ The [fdiwg](https://github.com/fdiwg) is a set of open and collaborative reposit
 
 The [fdiwg](https://github.com/fdiwg) includes both __digital data resources__ and __supporting tools__.
 
-The __digital data resources__ are structured into four main repositories:
+The __digital data resources__ are structured into five main repositories:
 
 * [_fdi-terms_](https://github.com/fdiwg/fdi-terms): referencing a list of fishery preferred terms, applicable for fishery concepts and their definitions, to be used as basis for data exchange, but also for dissemination
 * [_fdi-codelists_](https://github.com/fdiwg/fdi-codelists): referencing all code lists (including CWP standard code lists) and their metadata.
 * [_fdi-mappings_](https://github.com/fdiwg/fdi-mappings): referencing all mappings between code lists, including: 
 * [_fdi-formats_](https://github.com/fdiwg/fdi-formats): referencing digital format specifications to be used as basis for data templating, validation and submission in data collection frameworks use cases piloted through the FIRMS [dcf-shiny](https://github.com/fdiwg/dcf-shiny) platform.
+* [_fdi-workflows_](https://github.com/fdiwg/fdi-workflows): referencing maintenance and publication workflows used to manage FDI resources
 
 The __supporting tools__ currently under development include at this stage:
 * R packages
