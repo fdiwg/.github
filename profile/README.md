@@ -12,7 +12,9 @@ The __digital data resources__ are structured into five main repositories:
 
 The __supporting tools__ currently under development include at this stage:
 * R packages
-    * [fdi4R](https://github.com/fdiwg/fdi4R) R package with a set of utilities
+    * [fdi4R](https://github.com/fdiwg/fdi4R) R package with a set of utilities (going to be DEPRECATED in favour of specialized R packages - see below)
+    * [fdisf](https://github.com/fdiwg/fdisf) R Spatial features in support of Fisheries Data Interoperability
+    * [fdisfdata](https://github.com/fdiwg/fdisfdata) R Spatial datasets in support of Fisheries Data Interopability
     * [vrule](https://github.com/fdiwg/vrule) R package to support data validation rules based on [_fdi-formats_](https://github.com/fdiwg/fdi-formats) digital specifications
     * [artfishr](https://github.com/fdiwg/artfishr) R package to support Artfish implementation
     * [repfishr](https://github.com/fdiwg/repfishr) R package to support countries regional and global reporting
