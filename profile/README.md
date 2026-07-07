@@ -1,3 +1,5 @@
+![Logo](https://avatars.githubusercontent.com/u/63255993?s=200&v=4)
+
 The [fdiwg](https://github.com/fdiwg) is a set of open and collaborative repositories to foster the Fisheries Data Interoperability (FDI) open initiative. It is working environment to shape standards and implementation guidelines to facilitate fisheries data exchange. The initiative is supported by two governance schemes at international level: 1) the [Coordinating Working Party on fishery statistics](https://www.fao.org/cwp-on-fishery-statistics/en/) in particular the Task Group on Reference harmonization - TG-RH - and the Task Group on Geospatial - TG-Geospatial; and 2) the [Fishery Resources Monitoring System](https://firms.fao.org/firms/en)
 
 The [fdiwg](https://github.com/fdiwg) includes both __digital data resources__ and __supporting tools__.
